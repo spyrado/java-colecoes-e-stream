@@ -4,6 +4,7 @@ public class TipoDeListas {
 
 
   public void possibilidades() {
+    System.out.println("==== INICIANDO TipoDeListas ====");
     this.possibilidadesComList();
     this.possibilidadesComSet();
     this.possibilidadesComMap();
